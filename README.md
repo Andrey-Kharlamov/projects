@@ -1,1 +1,1 @@
-# y_praktokum
+# ya_praktikum
