@@ -11,6 +11,8 @@
 * Pandas
 * Matplotlib
 * Seaborn
+* Plotly
 * Scipy
 * Sklearn
+* Shap
 
